@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/stellhub/stell-web/main/docs/public/logo/logo.png" width="132" alt="Stell Hub Logo">
-
   <h1>Stell Hub</h1>
 
   <p>
@@ -29,18 +27,12 @@ Stell Hub organizes foundational middleware capabilities into product-level entr
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stellhub/stellflow">
-        <img src="./logo/stellflow.png" width="56" alt="Stellflow Logo">
-      </a>
       <h3>Stellflow · CometFlow</h3>
       <strong>Message Queue</strong>
       <p>Provides asynchronous decoupling, event delivery, stream distribution, and traffic smoothing for message workloads.</p>
       <a href="https://github.com/stellhub/stellflow">Read Reference</a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stellhub/stellmap">
-        <img src="./logo/stellmap.png" width="56" alt="Stellmap Logo">
-      </a>
       <h3>Stellmap · StarMap</h3>
       <strong>Registry Center</strong>
       <p>Provides unified service registration and discovery for instance health, subscriptions, and topology change propagation.</p>
@@ -49,18 +41,12 @@ Stell Hub organizes foundational middleware capabilities into product-level entr
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stellhub/stellnula">
-        <img src="./logo/stellnula.png" width="56" alt="Stellnula Logo">
-      </a>
       <h3>Stellnula · Nebula</h3>
       <strong>Configuration Center</strong>
       <p>Provides centralized configuration storage, controlled rollout, dynamic distribution, and change-audit capabilities.</p>
       <a href="https://github.com/stellhub/stellnula">Read Reference</a>
     </td>
     <td width="50%">
-      <a href="https://github.com/stellhub/stellorbit">
-        <img src="./logo/stellorbit.png" width="56" alt="Stellorbit Logo">
-      </a>
       <h3>Stellorbit · Orbit</h3>
       <strong>Service Governance</strong>
       <p>Provides runtime routing, load balancing, retry, and traffic-governance controls across service lifecycles.</p>
@@ -69,9 +55,6 @@ Stell Hub organizes foundational middleware capabilities into product-level entr
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/stellhub/stellflux">
-        <img src="./logo/stellflux.png" width="56" alt="Stellflux Logo">
-      </a>
       <h3>Stellflux · Flux</h3>
       <strong>Data Flow Platform</strong>
       <p>Provides event-flow processing, pipeline orchestration, and stream transformation for real-time data movement.</p>
